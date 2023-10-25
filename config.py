@@ -1,0 +1,6 @@
+VERSION = "1.0.0.0"
+COMPANY_NAME = "Your Organization Name"
+FILE_DESCRIPTION = "Description of your program"
+INTERNAL_NAME = "Internal Name"
+COPYRIGHT = "Author name"
+PRODUCT_NAME = "Product name"
